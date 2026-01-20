@@ -1,0 +1,54 @@
+body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color: #555555;
+            background-color: #aec7f5;
+            }
+        ol {
+            margin-bottom: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 25px;
+            color: #112288;
+        }
+        ul {
+            margin-bottom: 10px;
+            font-size: 12px;
+            color: black;
+        }
+        a {
+            text-decoration: none;
+            color: #033d88;
+        }
+        a:hover {
+            text-decoration: underline;
+            color: #884444;
+        }
+        a:visited {
+            color: #5e3d0c;
+        }
+        h2,h4 {color:darkslategray
+        }
+        p {color: #000044;}
+        li {
+            font-size: 18px;
+            font-style: italic;
+            font-weight: normal;
+        }
+        .resumeListHeading {
+            font-weight: bold;
+        }
+        .underline {text-decoration: underline;}
+        .bold {font-weight: bold;}
+        .justify {text-align: justify;}
+        .homebg { background-image: url('../Images/mtnbackground.jpg'); background-size: cover; }
+        .box1 {
+            border-width: 1px;
+            border-style: solid;
+            border-color: #112288;
+        }
+        .box2   {
+            padding: 5px;
+        }
+        .box3 {
+            margin: 50px;
+        }
